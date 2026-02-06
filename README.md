@@ -1,4 +1,4 @@
-## Oi! Eu sou o Matheus. Seja bem vindo ao meu portfólio!
+## Oi! Seja bem vindo ao meu portfólio!
 
 Atualmente meu foco é Java com o Spring!
 
