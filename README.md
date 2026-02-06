@@ -1,6 +1,6 @@
 ## Oi! Eu sou o Matheus. Seja bem vindo ao meu portfólio!
 
-Atualmente meu foco é Java com o SpringFramework!
+Atualmente meu foco é Java com o Spring!
 
 <div>
   <img width="45%" src = "https://github-readme-stats.vercel.app/api?username=matheusdorosario&show_icons=true&theme=dark">
